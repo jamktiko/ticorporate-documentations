@@ -6,4 +6,6 @@ This directory contains default templates for everything. Some courses have a sp
 
 **Template content:**
 - [LICENSE.md](./templates/LICENSE.md) | Move this to the root of the project. Don't make changes. Official CC-BY-SA license.
-- [template-README.md](./templates/template-README.md) | Starter README template for projects.  
+- [template-README.md](./templates/template-README.md) | Starter README template for projects.
+- [sdg.md](./templates/sdg.md) | This file helps identify and assess the sustainability of software from multiple different perspectives.
+   

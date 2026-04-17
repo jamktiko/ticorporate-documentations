@@ -1,8 +1,8 @@
-<!-- Suositellaan avattavaksi Visual Studio Codessa -->
+<!-- Recommended to be opened in Visual Studio Code -->
 
-# KeHu-dokumentti
+# KeHu Document
 
-**Kestävän kehityksen huomiointi tässä työssä**
+**How is Sustainable Development taken into account in this project**
 
 <!-- Vastaa osaan tai kaikkiin kysymyksiin saamiesi ohjeiden mukaan. -->
 
@@ -18,130 +18,132 @@
 
 <!-- Sovelluksen ei tarvitse eikä se voikaan olla kestävyydessään täydellinen. Tärkeintä on oppia tunnistamaan ja ymmärtämään kokonaisvaltaisesti, minkälaisia ekologisia ja sosiaalisia vaikutuksia sovelluksella voi olla sen koko elinkaaren ajan. -->
 
-> ##### Kestävän kehityksen periaatteet
+> ##### The Principles of Sustainable Development
 >
-> - [Kestävän kehityksen tavoitteet YK:n sivuilla](https://sdgs.un.org/goals)
-> - [Kestävän kehityksen tavoitteet suomeksi YK-liiton sivuilla](https://www.ykliitto.fi/kestava-kehitys)
-> - [Kestävän kehityksen hääkakkumalli](https://www.stockholmresilience.org/research/research-news/2016-06-14-the-sdgs-wedding-cake.html)
-> - [Karlskronan kestävän suunnittelun manifesti ohjelmistokehitykselle](https://sustainabilitydesign.org/karlskrona-manifesto/)
+> - [Sustainable Development Goals by UN](https://sdgs.un.org/goals)
+> - [The SDGs Wedding Cake](https://www.stockholmresilience.org/research/research-news/2016-06-14-the-sdgs-wedding-cake.html)
+> - [The Karlskrona Manifesto for Sustainability Design](https://sustainabilitydesign.org/karlskrona-manifesto/)
 >
-> ##### Kestävyyden suunnittelu
+> ##### Designing Sustainability
 >
 > - [Sustainable Awereness Framework](https://www.suso.academy/en/sustainability-awareness-framework-susaf/)
 > - [Sustainable Business Model Canvas](https://www.case-ka.eu/index.html%3Fp=2174.html)
 > - [Flourishing Business Canvas](https://flourishingbusiness.org/download-flourishing-business-canvas/)
 >
-> ##### Keinoja kestävyyteen
+> ##### Methods for Sustainability
 >
-> - [MitViDi-portaali: kriteereitä ekologisesti kestäville ohjelmistoille](https://mitvidi.tt.utu.fi/mitvidityokalu)
-> - [Itsearviointikysely ohjelmistotuotannolle GreenICT-ekosysteemin sivuilla](https://greenict.fi/tyokalut/itsearviointi/itsearviointi-ohjelmistotuotanto/)
-> - [Yksinkertaisia ohjeita saavutettavuuteen](https://saavutettavuusvaatimukset.fi/fi/yleista-saavutettavuudesta/ohjeita-suunnittelun-tueksi)
-> - [Vaatimukset henkilötietojen käsittelyyn](https://tietosuoja.fi/henkilotietojen-kasittely)
+> - [MitViDi portal: criteria for ecologically sustainable software (in Finnish)](https://mitvidi.tt.utu.fi/mitvidityokalu)
+> - [Self-assessment questionnaire for software development in Green ICT website (in Finnish)](https://greenict.fi/tyokalut/itsearviointi/itsearviointi-ohjelmistotuotanto/)
+> - [Easy guide to accessibility (in Finnish)](https://saavutettavuusvaatimukset.fi/fi/yleista-saavutettavuudesta/ohjeita-suunnittelun-tueksi)
+> - [Requirements for handling personal data (in Finnish)](https://tietosuoja.fi/henkilotietojen-kasittely)
 >
-> ##### Käytännön ohjeet
+> ##### Practical Instructions
 >
-> - [Markdown-opas](https://www.markdownguide.org/basic-syntax/)
-> - Coden lisäosat mahdollistavat mm. md-tiedoston esikatselun (esim. Markdown Preview Enhanced) sekä muunnon pdf:ksi (esim. Markdown PDF)
+> - [Markdow Guide](https://www.markdownguide.org/basic-syntax/)
+> - Coden extensions enable reviewing Markdown (eg. Markdown Preview Enhanced) or exporting as PDF (eg. Markdown PDF)
 
-## Motivaatio
+## Motivation
 
-### 1. Miksi kestävä kehitys on tärkeää minulle tai tiimillemme?
+### 1. Why is sustainable development important to me or our team?
 
-Vastaus
+Answer
 
-## Aihe
+## Subject
 
-### 2. Miksi sovelluksen aihe on tärkeä? Edistääkö se jotakin kestävän kehityksen tavoitetta?
+### 2. Why is this software necessary? Does it promote a Sustainable Development Goal?
 
-<!-- ESIMERKIKSI -->
-<!-- Tietoisuuden lisääminen kestävästä kehityksestä (SDG4: Hyvä koulutus) -->
-<!-- Ruokahävikin vähentäminen (SDG12: Vastuullista kuluttamista) -->
-<!-- Vieraslajien torjunta (SDG15: Maanpäällinen elämä) -->
-<!-- Kulttuuriperinnön suojeleminen (SDG11: Kestävät kaupungit ja yhteisöt) -->
+<!-- FOR EXAMPLE -->
+<!-- Raising awareness about sustainable development (SDG4: Quality Education) -->
+<!-- Reducing food waste (SDG12: Responsible Consumption and Production) -->
+<!-- Controlling invading alien species (SDG15: Life on Land) -->
+<!-- Protecting Cultural Heritage (SDG11: Sustainable Cities and Communities) -->
 
-Vastaus
+Answer
 
-## Toteutus
+## Implementation
 
-### 3. Kuinka sovelluksen energiankulutus on minimoitu?
+### 3. How is energy consumption minimized?
 
-**SDG12: Vastuullista kuluttamista**
+**SDG12: Responsible Consumption and Production**
 
-<!-- ESIMERKIKSI -->
-<!-- Kuinka oleellisia sovelluksen ominaisuudet ja sisältö ovat? -->
-<!-- Säilötäänkö sovelluksessa vain välttämätöntä tietoa? -->
-<!-- Miten sovelluksen vaatima palvelinkapasiteetti on mitoitettu? -->
-<!-- Käytetäänkö sovelluksessa tai sen kehitysprosessissa tekoälyä? -->
+<!-- FOR EXAMPLE -->
+<!-- How essential are the features and contents of the software? -->
+<!-- Does the software harbour only data that is necessary? -->
+<!-- How is the server capacity required by the software taken into account? -->
+<!-- How does the software or its development utilise artifical intelligence? -->
 
-Vastaus
+Answer
 
-### 4. Millä tavoin sovellus saattaa välillisesti lisätä tai vähentää luonnonvarojen kulutusta?
+### 4. In which ways might the software indirectly increase or decrease the consumption of natural resources?
 
-**SDG12: Vastuullista kuluttamista**
+**SDG12: Responsible Consumption and Production**
 
-<!-- ESIMERKIKSI -->
-<!-- Edellyttääkö sovelluksen käyttö uusien käyttäjälaitteiden tai lisätarvikkeiden hankintaa? -->
-<!-- Kannustaako sovellus muuhun kulutukseen? (esim. sovellus on verkkokauppa) -->
-<!-- Millä tavoin sovellus saattaa muuttaa käyttäjän toimintaa? (esim. lisätä tai vähentää yksityisautoilua) -->
+<!-- FOR EXAMPLE -->
+<!-- Does the usage of the software require the purchase of new devices or accessories? -->
+<!-- Does the software promote further consumption? (Eg. the software is a web shop) -->
+<!-- In which ways could the software affect the habits of its users? (eg. increasing or decreasing use of cars) -->
 
-Vastaus
 
-### 5. Kuinka sovelluksen pitkäikäisyys on varmistettu?
+Answer
 
-**SDG12: Vastuullista kuluttamista**
+### 5. How is the longevity of the software ensured?
 
-<!-- ESIMERKKEJÄ -->
-<!-- Kuinka riippuvainen sovellus on ulkoisista kirjastoista ja järjestelmistä? -->
-<!-- Onko sovellus mukautettavissa muuttuviin tarpeisiin ja vaatimuksiin? -->
-<!-- Onko sovelluksen lähdekoodi ja kehitysprosessi dokumentoitu? -->
+**SDG12: Responsible Consumption and Production**
 
-Vastaus
+<!-- FOR EXAMPLE -->
+<!-- How dependant is the software on external systems and libraries? -->
+<!-- Is the software adjustable to changing needs and requirements? -->
+<!-- Is the source code and the development process of the software documented? -->
 
-### 6. Kuinka sovelluksessa on huomioitu saavutettavuus ja yhdenvertaisuus?
+Answer
 
-**SDG10: Eriarvoisuuden vähentäminen**
+### 6. How does the softaware take into account accessibility and equity?
 
-<!-- ESIMERKIKSI -->
-<!-- Tekeekö sovellus oletuksia käyttäjän ominaisuuksista? (esim. sukupuoli, ikä, etninen tausta) -->
-<!-- Noudattaako sovellus lain määräämiä saavutettavuusvaatimuksia? -->
-<!-- Millaista osaamista ja varallisuutta sovelluksen käyttö vaatii? -->
-<!-- Millä kielillä sovellus on saatavilla? -->
+**SDG10: Reducing Inequalities**
 
-Vastaus
+<!-- FOR EXAMPLE -->
+<!-- Does the software make assumptions about the user? (eg. age, gender, ethnicity) -->
+<!-- Does the software meet legally mandated accessibility requirements? -->
+<!-- What kinds of skills and wealth does the software require from its user? -->
+<!-- In which languages is the software available? -->
 
-### 7. Millaisia vaikutuksia sovelluksella voi olla käyttäjälle tai hänen lähipiirilleen?
+Answer
 
-**SDG3: Terveyttä ja hyvinvointia**
+### 7. How could the software affect its user or people close to them?
 
-<!-- ESIMERKIKSI -->
-<!-- Mitä toimintaa sovelluksen käyttö korvaa, lisää, vähentää tai mahdollistaa? -->
-<!-- Millaisia vaikutuksia sovelluksella voi olla sosiaalisiin suhteisiin, terveyteen tai mielialaan? -->
-<!-- Millaisia vaikutuksia sovelluksella voi olla elämänhallintaan tai taloudelliseen tilanteeseen? -->
+**SDG3: Good Health and Wellbeing**
 
-Vastaus
+<!-- FOR EXAMPLE -->
+<!-- What kinds of actions does the using of the software substitute, increase, decrease or enable? -->
+<!-- How could the software affect social relations, health or mental conditions? -->
+<!-- What kinds of effects could the software have on life management or financial circumstances? -->
 
-### 8. Millaisia vaikutuksia sovelluksella voi olla yhteiskunnallisella tasolla?
 
-**SDG16: Rauha, oikeudenmukaisuus ja hyvä hallinto**
+Answer
 
-<!-- ESIMERKIKSI -->
-<!-- Voiko sovelluksesta ja sen käyttäjistä olla häiriötä ulkopuolisille? -->
-<!-- Voiko sovellus vaikuttaa laajasti yhteiskuntaan? (esim. työ- ja asuntomarkkinat, poliittinen ilmapiiri) -->
-<!-- Voiko sovellusta hyödyntää rikolliseen toimintaan? -->
-<!-- Kuinka sovellusta moderoidaan? (esim. disinformaation ja vihapuheen torjunta) -->
-<!-- Kuinka sovelluksessa on huomioitu tietoturvallisuus ja tietosuoja?  -->
+### 8. What kind of effects could the software have on a societal level?
 
-Vastaus
+**SDG16: Peace, Justice and Strong Institutions**
 
-### 9. Kuinka sovellusprojektissa on huomioitu inhimilliset ja aineelliset resurssit?
+<!-- FOR EXAMPLE -->
+<!-- Could the software and its users disturb others? -->
+<!-- Could the software have wide effects in the society? (eg. labour and housing market, political atmosphere) -->
+<!-- Is it possible to use the software for criminal purposes? -->
+<!-- How is the software moderated? (eg. preventing disinformation and hate speech) -->
+<!-- How are data security and data protection considered in the software?  -->
 
-**SDG8: Ihmisarvoista työtä ja talouskasvua**
+Answer
 
-<!-- ESIMERKIKSI -->
-<!-- Ovatko tavoitteet selkeitä ja realistisia? -->
-<!-- Kuinka kehittäjien hyvinvointi on huomioitu? -->
-<!-- Noudatetaanko ketterää kehitystä? (esim. Scrum) -->
-<!-- Pystytäänkö työntekijöille ja alihankkijoille maksamaan asianmukaisesti? -->
-<!-- Mahdollistaako rahoitus turvallisen ylläpidon sekä pitkäjänteisen jatkokehittelyn? -->
+### 9. How are human and material resources taken into account in the software project?
 
-Vastaus
+**SDG8: Decent Work and Economic Growth**
+
+<!-- FOR EXAMPLE -->
+<!-- Are the goals clear and realistic? -->
+<!-- How is the well-being of the development team considered?  -->
+<!-- Are agile methods (like Scrum) used in the project? -->
+<!-- Is it possible to fairly compensate both the employees and the contractors? -->
+<!-- Does the funding of the project provide for secure maintenance and long-term development of the software? -->
+
+
+Answer
